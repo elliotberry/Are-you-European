@@ -1,6 +1,6 @@
-name: Get Geo Module
-description: Creates a page showing "Hello World".
+name: "Are you European?" Module
+description: Exposes local API that shows visitor's geo info.
 package: Custom
 type: module
-version: 1.0
+version: 0.000001
 core: 8.x

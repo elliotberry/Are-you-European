@@ -2,6 +2,6 @@ hello.content:
   path: 'api/get_geo'
   defaults:
     _controller: '\Drupal\get_geo\Controller\GeoController::content'
-    _title: 'Get Geo Info'
+    _title: 'Are You European?'
   requirements:
     _permission: 'access content'
