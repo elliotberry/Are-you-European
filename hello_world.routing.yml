@@ -1,0 +1,7 @@
+hello.content:
+  path: 'api/get_geo.json'
+  defaults:
+    _controller: '\Drupal\get_geo\Controller\GeoController::content'
+    _title: 'Hello World'
+  requirements:
+    _permission: 'access content'
